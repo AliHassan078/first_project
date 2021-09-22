@@ -13,6 +13,7 @@ export default function Forms() {
     "Athiest",
     "Other",
   ];
+
   const languages = ["Javascript", "React", "Node JS", "Python", "C/C++"];
 
   let form = {
